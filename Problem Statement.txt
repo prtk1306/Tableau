@@ -1,0 +1,12 @@
+Annual Bonus Analysis Project:
+
+It's EOFY and the means time for annual bonus!
+
+The store operates in three regions and only the top-performing employee in each region qualifies for a bonus. 
+Find out which three employees are eligible to get bonuses for this year.
+
+Employees are measured on total sales ($$).
+
+Get the dataset here:
+
+https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-OfficeSupplies.csv
