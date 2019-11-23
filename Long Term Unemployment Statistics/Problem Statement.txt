@@ -1,6 +1,7 @@
 [Long Term Unemployment Statistics - USA]
 
-Analyse the Gender based USA's unemployment time series dataset from 2005 to 2015 and plot the area chart with Granularity (Gender and Age group). 
+Analyse the Gender based USA's unemployment time series dataset from 2005 to 2015 and plot the area chart with Granularity 
+(Gender and Age group). 
 
 Note: Use appropriate filters to filter out chart based on Dimensions Gender and Age group. 
 

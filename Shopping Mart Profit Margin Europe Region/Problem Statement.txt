@@ -3,7 +3,8 @@ Shopping Mart Profit Margin for Europe Region:
 
 A shopping Mart operates in the Europe region and wanted to determine which states of Europe have more profit margin.
 
-Create a dashboard displaying all the states of Europe where the shippings have been made for the customers and add actions like Filter and Highlights to filter out the data for the selected/highlighted State(s).
+Create a dashboard displaying all the states of Europe where the shippings have been made for the customers and add actions like Filter 
+and Highlights to filter out the data for the selected/highlighted State(s).
 
 Get the dataset here:
 
