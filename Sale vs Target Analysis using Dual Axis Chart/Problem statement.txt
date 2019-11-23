@@ -1,0 +1,7 @@
+A demo showcasing the Sale vs Target Sale for a particular Mart for 3 major categories i.e. Furniture, Office Supplies and Technology for 5 years using Dual Axis chart visualization technique.
+
+A dual axis chart is a great way to easily illustrate the relationship between two different variables. They illustrate a lot of information with limited space and allow you to discover trends you may have otherwise missed if you're switching between graphs.
+
+Get the dataset from the below URL:
+
+https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-AmazingMartEU2.xlsx
