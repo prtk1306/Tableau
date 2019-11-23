@@ -1,0 +1,5 @@
+This project analyzes how the different regions are represented in this customer base. In short, what the customers are look-alike in different regions so the bank executives can access who's interested in the bank and these different areas of the UK and how to provide better service to their customers. Create a visualization, dashboards, and storyline using the below dataset to portray what to convey to the executives and explain about the userbase findings that will uncover with the dashboard.
+
+Get the dataset from the below URL:
+
+https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-UK-Bank-Customers.csv
