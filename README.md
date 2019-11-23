@@ -34,4 +34,5 @@ Adding Actions to Dashboards (filters & highlighting)
 Assigning Geographical Roles to Data Elements
 Advanced Data Preparation (including latest updates in Tableau 9)
 
+
 Thank you! 
