@@ -1,0 +1,8 @@
+A small demo showcasing the Data Blending technique (a powerful feature of Tableau), a smart join on the fly for the data pertains to the below 2 categories:
+
+1) Data with different column names
+2) Data coming from different data sources like excel, csv, RDBMS, Teradata, etc.
+
+Get the dataset from the below URL:
+
+https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-Airline-Comparison.xlsx
