@@ -1,0 +1,18 @@
+This project mainly deals with the data preparation part, wherein the data we have in the below link is more appealing for human eyes, in short, a report format, but we need to modify the data per the machine-readable form, like, we need a single column for every Dimension and Measures. Follow the steps below to convert the data from human-readable to machine-understandable structure format.
+
+1) Add a new column named Region.
+2) Remove rows showing the total for each region from the below dataset.
+3) Remove empty columns/rows.
+4) Remove extra text above and below the main data.
+5) Save and Import the data in Tableau.
+6) Select Data Interpreter checkbox, a very handy functionality in Tableau, which is used to clean an Excel sheet on its own.
+7) Convert all the year columns into a single column using Pivot functionality in Tableau.
+8) Change the Column Names at your convenience.
+
+The data is ready for use.
+
+Create a worksheet using the above-modified data showing the number of vehicles sold every year globally. Show the sales using the map plot as well. Apply filters wherever necessary.
+
+Get the dataset from the below URL:
+
+https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P1-PersonalVehicleSalesGlobal.xlsx
